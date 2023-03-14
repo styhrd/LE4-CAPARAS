@@ -1,0 +1,10 @@
+C:\Users\juanm\source\repos\CaparasLE2\CaparasBlogDB\bin\Debug\CaparasBlogDB.dacpac
+C:\Users\juanm\source\repos\CaparasLE2\CaparasBlogDB\bin\Debug\CaparasBlogDB.dll
+C:\Users\juanm\source\repos\CaparasLE2\CaparasBlogDB\bin\Debug\CaparasBlogDB.pdb
+C:\Users\juanm\source\repos\CaparasLE2\CaparasBlogDB\obj\Debug\CaparasBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\juanm\source\repos\CaparasLE2\CaparasBlogDB\obj\Debug\CaparasBlogDB.dll
+C:\Users\juanm\source\repos\CaparasLE2\CaparasBlogDB\obj\Debug\CaparasBlogDB.pdb
+C:\Users\juanm\source\repos\CaparasLE2\CaparasBlogDB\obj\Debug\Model.xml
+C:\Users\juanm\source\repos\CaparasLE2\CaparasBlogDB\obj\Debug\refactor.xml
+C:\Users\juanm\source\repos\CaparasLE2\CaparasBlogDB\obj\Debug\postdeploy.sql
+C:\Users\juanm\source\repos\CaparasLE2\CaparasBlogDB\obj\Debug\predeploy.sql
